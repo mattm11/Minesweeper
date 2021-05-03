@@ -1,0 +1,75 @@
+﻿  Board.cpp
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(31,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(31,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(32,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(32,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(33,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(33,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(34,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(34,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(38,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(41,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(44,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(47,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(59,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(213,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(215,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(227,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(229,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(244,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(245,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(321,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(323,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(339,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(341,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(358,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(359,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(376,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(377,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(390,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(392,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(551,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(551,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(559,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(559,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(568,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(568,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(577,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(577,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(586,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(588,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(600,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\17027\Desktop\C++ Projects\Minesweeper\Minesweeper\Board.cpp(602,21): warning C4018: '<': signed/unsigned mismatch
+  Minesweeper.vcxproj -> C:\Users\17027\Desktop\C++ Projects\Minesweeper\Debug\Minesweeper.exe
